@@ -1,0 +1,10 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+roastProgView.cpp:14:6:virtual void roastProgView::tearDownScreen()	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+roastProgView.hpp:11:13:roastProgView::~roastProgView()	8	static
+roastProgView.hpp:11:13:virtual roastProgView::~roastProgView()	8	static
+roastProgView.cpp:4:1:roastProgView::roastProgView()	8	static
+roastProgView.cpp:9:6:virtual void roastProgView::setupScreen()	0	static
+roastProgView.cpp:19:6:virtual void roastProgView::handleTickEvent()	40	static

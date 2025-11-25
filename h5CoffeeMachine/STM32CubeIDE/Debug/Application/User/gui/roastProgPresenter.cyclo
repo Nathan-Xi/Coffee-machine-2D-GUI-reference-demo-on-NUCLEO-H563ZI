@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/roastprog_screen/roastProgPresenter.hpp:28:13:roastProgPresenter::~roastProgPresenter()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/roastprog_screen/roastProgPresenter.cpp:10:6:virtual void roastProgPresenter::activate()	1
+../../TouchGFX/gui/include/gui/roastprog_screen/roastProgPresenter.hpp:28:13:virtual roastProgPresenter::~roastProgPresenter()	1
+../../TouchGFX/gui/include/gui/roastprog_screen/roastProgPresenter.hpp:28:13:virtual void* roastProgPresenter::_ZThn4_N18roastProgPresenterD1Ev()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/roastprog_screen/roastProgPresenter.cpp:4:1:roastProgPresenter::roastProgPresenter(roastProgView&)	1

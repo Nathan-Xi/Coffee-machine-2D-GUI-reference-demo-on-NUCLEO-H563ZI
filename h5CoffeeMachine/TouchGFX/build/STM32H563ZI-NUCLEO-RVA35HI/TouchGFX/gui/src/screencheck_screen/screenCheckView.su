@@ -1,0 +1,8 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+screenCheckView.cpp:13:6:virtual void screenCheckView::tearDownScreen()	0	static
+screenCheckView.hpp:11:13:screenCheckView::~screenCheckView()	8	static
+screenCheckView.hpp:11:13:virtual screenCheckView::~screenCheckView()	8	static
+screenCheckView.cpp:3:1:screenCheckView::screenCheckView()	8	static
+screenCheckView.cpp:8:6:virtual void screenCheckView::setupScreen()	0	static

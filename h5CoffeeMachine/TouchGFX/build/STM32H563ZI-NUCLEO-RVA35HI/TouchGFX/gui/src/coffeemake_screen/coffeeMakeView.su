@@ -1,0 +1,16 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+coffeeMakeView.cpp:17:6:virtual void coffeeMakeView::tearDownScreen()	0	static
+Callback.hpp:357:8:touchgfx::Callback<coffeeMakeView, short int>::~Callback()	0	static
+Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = coffeeMakeView; T1 = short int]	8	static
+Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = coffeeMakeView; T1 = short int]	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+Callback.hpp:357:8:virtual touchgfx::Callback<coffeeMakeView, short int>::~Callback()	8	static
+coffeeMakeView.cpp:22:6:virtual void coffeeMakeView::scrollWheel1UpdateItem(listElement&, int16_t)	0	static
+coffeeMakeView.hpp:11:13:coffeeMakeView::~coffeeMakeView()	8	static
+coffeeMakeView.hpp:11:13:virtual coffeeMakeView::~coffeeMakeView()	8	static
+coffeeMakeView.cpp:5:1:coffeeMakeView::coffeeMakeView()	8	static
+coffeeMakeView.cpp:11:6:virtual void coffeeMakeView::setupScreen()	8	static
+coffeeMakeView.cpp:27:6:void coffeeMakeView::scrollWheel1_ItemSelectedHandler(int16_t)	24	static

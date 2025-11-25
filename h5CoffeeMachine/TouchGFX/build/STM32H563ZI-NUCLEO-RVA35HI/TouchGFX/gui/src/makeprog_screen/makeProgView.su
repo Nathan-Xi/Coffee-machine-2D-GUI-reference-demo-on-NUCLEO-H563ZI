@@ -1,0 +1,10 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+makeProgView.cpp:14:6:virtual void makeProgView::tearDownScreen()	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+makeProgView.hpp:11:13:makeProgView::~makeProgView()	8	static
+makeProgView.hpp:11:13:virtual makeProgView::~makeProgView()	8	static
+makeProgView.cpp:4:1:makeProgView::makeProgView()	8	static
+makeProgView.cpp:9:6:virtual void makeProgView::setupScreen()	0	static
+makeProgView.cpp:19:6:virtual void makeProgView::handleTickEvent()	40	static

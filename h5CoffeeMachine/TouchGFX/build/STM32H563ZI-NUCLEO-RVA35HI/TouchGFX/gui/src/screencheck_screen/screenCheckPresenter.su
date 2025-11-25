@@ -1,0 +1,5 @@
+screenCheckPresenter.hpp:28:13:screenCheckPresenter::~screenCheckPresenter()	0	static
+screenCheckPresenter.cpp:10:6:virtual void screenCheckPresenter::activate()	0	static
+screenCheckPresenter.hpp:28:13:virtual screenCheckPresenter::~screenCheckPresenter()	8	static
+screenCheckPresenter.hpp:28:13:virtual void* screenCheckPresenter::_ZThn4_N20screenCheckPresenterD1Ev()	0	static
+screenCheckPresenter.cpp:4:1:screenCheckPresenter::screenCheckPresenter(screenCheckView&)	8	static

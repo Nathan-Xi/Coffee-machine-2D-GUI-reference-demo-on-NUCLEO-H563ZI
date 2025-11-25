@@ -1,0 +1,5 @@
+beanRoastPresenter.hpp:28:13:beanRoastPresenter::~beanRoastPresenter()	0	static
+beanRoastPresenter.cpp:10:6:virtual void beanRoastPresenter::activate()	0	static
+beanRoastPresenter.hpp:28:13:virtual beanRoastPresenter::~beanRoastPresenter()	8	static
+beanRoastPresenter.hpp:28:13:virtual void* beanRoastPresenter::_ZThn4_N18beanRoastPresenterD1Ev()	0	static
+beanRoastPresenter.cpp:4:1:beanRoastPresenter::beanRoastPresenter(beanRoastView&)	8	static

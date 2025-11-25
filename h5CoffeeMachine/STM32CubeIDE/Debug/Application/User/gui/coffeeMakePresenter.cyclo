@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/coffeemake_screen/coffeeMakePresenter.hpp:28:13:coffeeMakePresenter::~coffeeMakePresenter()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/coffeemake_screen/coffeeMakePresenter.cpp:10:6:virtual void coffeeMakePresenter::activate()	1
+../../TouchGFX/gui/include/gui/coffeemake_screen/coffeeMakePresenter.hpp:28:13:virtual coffeeMakePresenter::~coffeeMakePresenter()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/coffeemake_screen/coffeeMakePresenter.cpp:20:6:virtual void coffeeMakePresenter::menuSelected(int16_t)	1
+../../TouchGFX/gui/include/gui/coffeemake_screen/coffeeMakePresenter.hpp:28:13:virtual void* coffeeMakePresenter::_ZThn4_N19coffeeMakePresenterD1Ev()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/coffeemake_screen/coffeeMakePresenter.cpp:4:1:coffeeMakePresenter::coffeeMakePresenter(coffeeMakeView&)	1

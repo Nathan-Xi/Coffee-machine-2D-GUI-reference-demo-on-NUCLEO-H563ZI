@@ -1,0 +1,23 @@
+Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	0	static
+Drawable.hpp:315:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:356:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+Drawable.hpp:368:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+Drawable.hpp:378:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:389:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+Drawable.hpp:401:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:490:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+Drawable.hpp:501:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+listElement2.hpp:10:13:listElement2::~listElement2()	8	static
+listElement2.hpp:10:13:virtual listElement2::~listElement2()	8	static
+listElement2.cpp:9:1:listElement2::listElement2()	8	static
+listElement2.cpp:19:6:void listElement2::offset(int16_t)	0	static
+listElement2.cpp:24:6:void listElement2::alphaAdjust(int16_t)	0	static
+listElement2.cpp:29:6:void listElement2::colorAdjustGold()	0	static
+listElement2.cpp:35:6:void listElement2::colorAdjustGrey()	0	static
+listElement2.cpp:41:6:virtual void listElement2::setY(int16_t)	8	static
+listElement2.cpp:57:6:void listElement2::setListElements(int)	16	static
+listElement2.cpp:14:6:virtual void listElement2::initialize()	0	static

@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/functionselect_screen/functionSelectPresenter.hpp:28:13:functionSelectPresenter::~functionSelectPresenter()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/functionselect_screen/functionSelectPresenter.cpp:10:6:virtual void functionSelectPresenter::activate()	1
+../../TouchGFX/gui/include/gui/functionselect_screen/functionSelectPresenter.hpp:28:13:virtual functionSelectPresenter::~functionSelectPresenter()	1
+../../TouchGFX/gui/include/gui/functionselect_screen/functionSelectPresenter.hpp:28:13:virtual void* functionSelectPresenter::_ZThn4_N23functionSelectPresenterD1Ev()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/functionselect_screen/functionSelectPresenter.cpp:4:1:functionSelectPresenter::functionSelectPresenter(functionSelectView&)	1

@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/grindauto_screen/grindAutoPresenter.hpp:28:13:grindAutoPresenter::~grindAutoPresenter()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/grindauto_screen/grindAutoPresenter.cpp:10:6:virtual void grindAutoPresenter::activate()	1
+../../TouchGFX/gui/include/gui/grindauto_screen/grindAutoPresenter.hpp:28:13:virtual grindAutoPresenter::~grindAutoPresenter()	1
+../../TouchGFX/gui/include/gui/grindauto_screen/grindAutoPresenter.hpp:28:13:virtual void* grindAutoPresenter::_ZThn4_N18grindAutoPresenterD1Ev()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/grindauto_screen/grindAutoPresenter.cpp:4:1:grindAutoPresenter::grindAutoPresenter(grindAutoView&)	1

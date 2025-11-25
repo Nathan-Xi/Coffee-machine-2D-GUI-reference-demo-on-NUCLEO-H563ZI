@@ -1,0 +1,12 @@
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:39:1:W25Q64_ResetChip	96	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:146:1:W25Q64_WriteEnable	120	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:219:1:W25Q64_AutoPollingMemReady	120	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:312:1:W25Q64_EraseSector	96	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:365:1:W25Q64_Write	128	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:455:1:W25Q64_Read	104	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:500:1:W25Q64_EnableMemoryMappedMode	112	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:588:1:W25Q64_Read_Status_Registers	96	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:569:1:W25Q64_IsBusy	16	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:266:1:W25Q64_Erase_Chip	88	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:639:1:W25Q64_Write_Status_Registers	104	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/w25q64.c:103:1:W25Q64_Configuration	24	static

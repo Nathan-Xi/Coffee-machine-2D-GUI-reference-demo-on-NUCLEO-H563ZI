@@ -1,0 +1,4 @@
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/main.c:159:6:SystemClock_Config	120	static,ignoring_inline_asm
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/main.c:90:5:main	112	static,ignoring_inline_asm
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/main.c:706:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/main.c:723:6:Error_Handler	0	static,ignoring_inline_asm

@@ -1,0 +1,5 @@
+grindManualPresenter.hpp:28:13:grindManualPresenter::~grindManualPresenter()	0	static
+grindManualPresenter.cpp:10:6:virtual void grindManualPresenter::activate()	0	static
+grindManualPresenter.hpp:28:13:virtual grindManualPresenter::~grindManualPresenter()	8	static
+grindManualPresenter.hpp:28:13:virtual void* grindManualPresenter::_ZThn4_N20grindManualPresenterD1Ev()	0	static
+grindManualPresenter.cpp:4:1:grindManualPresenter::grindManualPresenter(grindManualView&)	8	static

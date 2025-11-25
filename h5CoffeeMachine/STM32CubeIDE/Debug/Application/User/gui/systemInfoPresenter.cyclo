@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/systeminfo_screen/systemInfoPresenter.hpp:28:13:systemInfoPresenter::~systemInfoPresenter()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/systeminfo_screen/systemInfoPresenter.cpp:10:6:virtual void systemInfoPresenter::activate()	1
+../../TouchGFX/gui/include/gui/systeminfo_screen/systemInfoPresenter.hpp:28:13:virtual systemInfoPresenter::~systemInfoPresenter()	1
+../../TouchGFX/gui/include/gui/systeminfo_screen/systemInfoPresenter.hpp:28:13:virtual void* systemInfoPresenter::_ZThn4_N19systemInfoPresenterD1Ev()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/systeminfo_screen/systemInfoPresenter.cpp:4:1:systemInfoPresenter::systemInfoPresenter(systemInfoView&)	1

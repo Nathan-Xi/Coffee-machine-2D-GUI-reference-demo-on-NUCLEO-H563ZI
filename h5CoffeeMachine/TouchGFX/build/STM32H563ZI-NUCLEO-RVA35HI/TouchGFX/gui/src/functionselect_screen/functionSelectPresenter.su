@@ -1,0 +1,5 @@
+functionSelectPresenter.hpp:28:13:functionSelectPresenter::~functionSelectPresenter()	0	static
+functionSelectPresenter.cpp:10:6:virtual void functionSelectPresenter::activate()	0	static
+functionSelectPresenter.hpp:28:13:virtual functionSelectPresenter::~functionSelectPresenter()	8	static
+functionSelectPresenter.hpp:28:13:virtual void* functionSelectPresenter::_ZThn4_N23functionSelectPresenterD1Ev()	0	static
+functionSelectPresenter.cpp:4:1:functionSelectPresenter::functionSelectPresenter(functionSelectView&)	8	static

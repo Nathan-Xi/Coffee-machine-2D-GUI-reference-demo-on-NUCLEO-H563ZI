@@ -1,0 +1,5 @@
+roastProgPresenter.hpp:28:13:roastProgPresenter::~roastProgPresenter()	0	static
+roastProgPresenter.cpp:10:6:virtual void roastProgPresenter::activate()	0	static
+roastProgPresenter.hpp:28:13:virtual roastProgPresenter::~roastProgPresenter()	8	static
+roastProgPresenter.hpp:28:13:virtual void* roastProgPresenter::_ZThn4_N18roastProgPresenterD1Ev()	0	static
+roastProgPresenter.cpp:4:1:roastProgPresenter::roastProgPresenter(roastProgView&)	8	static

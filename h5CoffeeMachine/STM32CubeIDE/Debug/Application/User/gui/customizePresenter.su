@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/customize_screen/customizePresenter.hpp:28:13:customizePresenter::~customizePresenter()	0	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/customize_screen/customizePresenter.cpp:10:6:virtual void customizePresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/customize_screen/customizePresenter.hpp:28:13:virtual customizePresenter::~customizePresenter()	8	static
+../../TouchGFX/gui/include/gui/customize_screen/customizePresenter.hpp:28:13:virtual void* customizePresenter::_ZThn4_N18customizePresenterD1Ev()	0	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/customize_screen/customizePresenter.cpp:4:1:customizePresenter::customizePresenter(customizeView&)	0	static

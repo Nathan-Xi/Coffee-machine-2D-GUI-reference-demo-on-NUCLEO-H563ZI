@@ -1,0 +1,5 @@
+makeProgPresenter.hpp:28:13:makeProgPresenter::~makeProgPresenter()	0	static
+makeProgPresenter.cpp:10:6:virtual void makeProgPresenter::activate()	0	static
+makeProgPresenter.hpp:28:13:virtual makeProgPresenter::~makeProgPresenter()	8	static
+makeProgPresenter.hpp:28:13:virtual void* makeProgPresenter::_ZThn4_N17makeProgPresenterD1Ev()	0	static
+makeProgPresenter.cpp:4:1:makeProgPresenter::makeProgPresenter(makeProgView&)	8	static

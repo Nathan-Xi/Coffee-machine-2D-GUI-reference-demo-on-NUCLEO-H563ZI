@@ -1,0 +1,2 @@
+Table_COPRGTL_TTF_15_4bpp.cpp:89:184:void __tcf_0()	0	static
+Table_COPRGTL_TTF_15_4bpp.cpp:87:26:touchgfx::GeneratedFont& getFont_COPRGTL_TTF_15_4bpp()	72	static

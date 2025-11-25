@@ -1,0 +1,13 @@
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:63:6:HAL_MspInit	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:85:6:HAL_CRC_MspInit	2
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:108:6:HAL_CRC_MspDeInit	2
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:130:6:HAL_DCACHE_MspInit	2
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:153:6:HAL_DCACHE_MspDeInit	2
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:175:6:HAL_I2C_MspInit	3
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:222:6:HAL_I2C_MspDeInit	2
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:253:6:HAL_XSPI_MspInit	3
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:329:6:HAL_XSPI_MspDeInit	2
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:368:6:HAL_TIM_Base_MspInit	2
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:391:6:HAL_TIM_Base_MspDeInit	2
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:457:6:HAL_SRAM_MspInit	2
+C:/Users/Natha/Desktop/h5CoffeeMachine/Core/Src/stm32h5xx_hal_msp.c:505:6:HAL_SRAM_MspDeInit	2

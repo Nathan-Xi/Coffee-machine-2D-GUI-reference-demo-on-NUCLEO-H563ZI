@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="ResourceId115" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">The beans are being cooled.&#10;Please wait until the fan stops completely.</Translation>
+      </Text>
+      <Text Id="ResourceId114" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Immediate</Translation>
+      </Text>
+      <Text Id="ResourceId113" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Gradual</Translation>
+      </Text>
+      <Text Id="ResourceId112" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">High</Translation>
+      </Text>
+      <Text Id="ResourceId111" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Medium</Translation>
+      </Text>
+      <Text Id="ResourceId110" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Light</Translation>
+      </Text>
+      <Text Id="ResourceId109" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">100%</Translation>
+      </Text>
+      <Text Id="ResourceId108" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">90%</Translation>
+      </Text>
+      <Text Id="ResourceId107" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">80%</Translation>
+      </Text>
+      <Text Id="ResourceId106" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">70%</Translation>
+      </Text>
+      <Text Id="ResourceId105" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">60%</Translation>
+      </Text>
+      <Text Id="ResourceId104" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">50%</Translation>
+      </Text>
+      <Text Id="ResourceId103" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">40%</Translation>
+      </Text>
+      <Text Id="ResourceId102" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">30%</Translation>
+      </Text>
+      <Text Id="ResourceId101" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">20%</Translation>
+      </Text>
+      <Text Id="ResourceId100" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">10%</Translation>
+      </Text>
+      <Text Id="ResourceId93" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">When you select auto mode, you can use our presets for different types of coffee.</Translation>
+      </Text>
+      <Text Id="ResourceId92" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">When you select manual mode, you have the freedom to try out which granularity fits your taste most.</Translation>
+      </Text>
+      <Text Id="ResourceId91" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB" Alignment="Center">Auto</Translation>
+      </Text>
+      <Text Id="ResourceId90" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB" Alignment="Center">Manual</Translation>
+      </Text>
+      <Text Id="ResourceId80" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Your coffee is now ready!&#10;Enjoy!</Translation>
+      </Text>
+      <Text Id="ResourceId9" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Hot drinks are great as heat motivates the particles,&#10;making it easier to enjoy the elegant fragrance!</Translation>
+      </Text>
+      <Text Id="ResourceId8" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Cold drinks are especially popular in summer!&#10;However we do not recommend that in winter.</Translation>
+      </Text>
+      <Text Id="ResourceId70" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Double concentration, double refreshness.&#10;Italian roasted by our most experienced baristas.&#10;See the capability of this advanced machine!</Translation>
+      </Text>
+      <Text Id="ResourceId60" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Macchiato made from premium beans.&#10;Coming soon!</Translation>
+      </Text>
+      <Text Id="ResourceId50" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Tired of Latte?&#10;White coffee with richer coffee will save you!&#10;A little bit bitter.&#10;Premium quality.</Translation>
+      </Text>
+      <Text Id="ResourceId40" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Good news for chocolate and coffee lovers.&#10;Real chocolate with premium coffee beans.&#10;Extremely smooth taste.</Translation>
+      </Text>
+      <Text Id="ResourceId30" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Smooth tasting milk coffee with no sugar.&#10;Using fresh milk and 100% Arabica beans.&#10;Enjoy this delicacy when having your lunch break.&#10;Suitable for caffeine sensitive enthusiasts.</Translation>
+      </Text>
+      <Text Id="ResourceId20" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Simple Americano using 100% Arabica beans.&#10;Fast and cost-effective refreshing coffee for your day.&#10;Popular among office workers.</Translation>
+      </Text>
+      <Text Id="ResourceId10" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Premium italian Espresso extracted from 100% Arabica beans.&#10;Enjoy the smooth taste before a day's work.&#10;Best seller in 2024.</Translation>
+      </Text>
+      <Text Id="ResourceId7" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Espresso Doppio</Translation>
+      </Text>
+      <Text Id="ResourceId6" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Macchiato</Translation>
+      </Text>
+      <Text Id="ResourceId5" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">White</Translation>
+      </Text>
+      <Text Id="ResourceId4" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Cappuccino</Translation>
+      </Text>
+      <Text Id="ResourceId3" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Latte</Translation>
+      </Text>
+      <Text Id="ResourceId2" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Americano</Translation>
+      </Text>
+      <Text Id="ResourceId1" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Solo Espresso</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_B5HD" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Core: STM32H563ZI&#10;MCU board: NUCLEO-H563ZI&#10;Screen board: RVA35HI&#10;Desciption: High-performance Cortex-M33 @250MHz MCU, 3.5'' high brightness PCAP touch screen.&#10;Demonstrates the high efficiency of this GUI.</Translation>
+      </Text>
+      <Text Id="__SingleUse_KCZ0" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_33WS" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">System Info</Translation>
+      </Text>
+      <Text Id="__SingleUse_KSC4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Roasting</Translation>
+      </Text>
+      <Text Id="__SingleUse_UUUO" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Your coffee is currently being roasted.&#10;Thank you for waiting.</Translation>
+      </Text>
+      <Text Id="__SingleUse_NZPR" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Exit</Translation>
+      </Text>
+      <Text Id="__SingleUse_DFUE" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_LBLI" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_59QI" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Roast</Translation>
+      </Text>
+      <Text Id="__SingleUse_A92Z" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_39OH" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Customize</Translation>
+      </Text>
+      <Text Id="__SingleUse_PMC4" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_L1BF" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Gradual</Translation>
+      </Text>
+      <Text Id="__SingleUse_YHPI" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Light</Translation>
+      </Text>
+      <Text Id="__SingleUse_XBKB" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">10%</Translation>
+      </Text>
+      <Text Id="__SingleUse_8CTL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Initial Heat</Translation>
+      </Text>
+      <Text Id="__SingleUse_E0WB" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Degree</Translation>
+      </Text>
+      <Text Id="__SingleUse_L7MZ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Cooling</Translation>
+      </Text>
+      <Text Id="__SingleUse_DVQF" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">When you select manual mode, you have the freedom to try out which granularity fits your taste most.</Translation>
+      </Text>
+      <Text Id="__SingleUse_JTAQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Roast Parameters</Translation>
+      </Text>
+      <Text Id="__SingleUse_0TV6" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Manual</Translation>
+      </Text>
+      <Text Id="__SingleUse_9BVX" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_6NEM" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_8OB1" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Exit</Translation>
+      </Text>
+      <Text Id="__SingleUse_9TOT" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Your order is currently being processed.&#10;Thank you for waiting.</Translation>
+      </Text>
+      <Text Id="__SingleUse_W2O2" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_NF5G" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Processing Order</Translation>
+      </Text>
+      <Text Id="__SingleUse_BAGF" Alignment="Center" TypographyId="Typography_00">
+        <Translation Language="GB">Make now</Translation>
+      </Text>
+      <Text Id="__SingleUse_HNPH" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Cold drinks are especially popular in summer!&#10;However we do not recommend that in winter.&#10;making it easier to enjoy the elegant fragrance!</Translation>
+      </Text>
+      <Text Id="__SingleUse_B5T9" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">We recommend you to set to 30% of sugar.</Translation>
+      </Text>
+      <Text Id="__SingleUse_1ZYP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Hot</Translation>
+      </Text>
+      <Text Id="__SingleUse_2L7D" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Cold</Translation>
+      </Text>
+      <Text Id="__SingleUse_XHTR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Temperature</Translation>
+      </Text>
+      <Text Id="__SingleUse_C7C3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">3</Translation>
+      </Text>
+      <Text Id="__SingleUse_RWDB" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HH0V" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Sugar</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZBUN" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Customize</Translation>
+      </Text>
+      <Text Id="__SingleUse_DJM1" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_D9GN" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">2025 Nathan Xi | All rights reserved.</Translation>
+      </Text>
+      <Text Id="__SingleUse_3W70" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Three functions available.</Translation>
+      </Text>
+      <Text Id="__SingleUse_KCXD" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Expedience Coffee</Translation>
+      </Text>
+      <Text Id="__SingleUse_3VOD" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Instant</Translation>
+      </Text>
+      <Text Id="__SingleUse_D4TO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Grind</Translation>
+      </Text>
+      <Text Id="__SingleUse_DURU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Roast</Translation>
+      </Text>
+      <Text Id="__SingleUse_QC9L" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Premium italian Espresso extracted from 100% Arabica beans.&#10;Enjoy the smooth taste before a day's work.&#10;Best seller in 2024.</Translation>
+      </Text>
+      <Text Id="__SingleUse_44T2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Espresso Doppio</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="COPRGTB.TTF" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Large" Font="COPRGTL.TTF" Size="15" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="GOTHIC.TTF" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="COPRGTB.TTF" Size="15" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

@@ -1,0 +1,6 @@
+../../TouchGFX/gui/include/gui/beangrind_screen/beanGrindPresenter.hpp:28:13:beanGrindPresenter::~beanGrindPresenter()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/beangrind_screen/beanGrindPresenter.cpp:10:6:virtual void beanGrindPresenter::activate()	1
+../../TouchGFX/gui/include/gui/beangrind_screen/beanGrindPresenter.hpp:28:13:virtual beanGrindPresenter::~beanGrindPresenter()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/beangrind_screen/beanGrindPresenter.cpp:20:6:virtual void beanGrindPresenter::menuSelected(int16_t)	1
+../../TouchGFX/gui/include/gui/beangrind_screen/beanGrindPresenter.hpp:28:13:virtual void* beanGrindPresenter::_ZThn4_N18beanGrindPresenterD1Ev()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/beangrind_screen/beanGrindPresenter.cpp:4:1:beanGrindPresenter::beanGrindPresenter(beanGrindView&)	1

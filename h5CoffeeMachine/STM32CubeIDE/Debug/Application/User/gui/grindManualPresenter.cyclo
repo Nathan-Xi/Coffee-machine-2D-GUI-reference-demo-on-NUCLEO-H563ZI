@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/grindmanual_screen/grindManualPresenter.hpp:28:13:grindManualPresenter::~grindManualPresenter()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/grindmanual_screen/grindManualPresenter.cpp:10:6:virtual void grindManualPresenter::activate()	1
+../../TouchGFX/gui/include/gui/grindmanual_screen/grindManualPresenter.hpp:28:13:virtual grindManualPresenter::~grindManualPresenter()	1
+../../TouchGFX/gui/include/gui/grindmanual_screen/grindManualPresenter.hpp:28:13:virtual void* grindManualPresenter::_ZThn4_N20grindManualPresenterD1Ev()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/grindmanual_screen/grindManualPresenter.cpp:4:1:grindManualPresenter::grindManualPresenter(grindManualView&)	1

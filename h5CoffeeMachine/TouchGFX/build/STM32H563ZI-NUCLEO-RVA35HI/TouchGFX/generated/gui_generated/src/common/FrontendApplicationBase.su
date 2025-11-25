@@ -1,0 +1,56 @@
+Application.hpp:72:18:virtual void touchgfx::Application::changeToStartScreen()	0	static
+Application.hpp:91:18:virtual void touchgfx::Application::appSwitchScreen(uint8_t)	0	static
+Application.hpp:104:18:virtual void touchgfx::Application::requestRedraw(touchgfx::Rect&)	0	static
+Transition.hpp:72:18:virtual void touchgfx::Transition::tearDown()	0	static
+Transition.hpp:80:18:virtual void touchgfx::Transition::init()	0	static
+Transition.hpp:100:18:virtual void touchgfx::Transition::setScreenContainer(touchgfx::Container&)	0	static
+MVPApplication.hpp:43:7:touchgfx::MVPApplication::~MVPApplication()	0	static
+FrontendApplicationBase.hpp:16:13:FrontendApplicationBase::~FrontendApplicationBase()	0	static
+FrontendApplicationBase.hpp:18:18:virtual void FrontendApplicationBase::changeToStartScreen()	0	static
+NoTransition.hpp:35:18:virtual void touchgfx::NoTransition::handleTickEvent()	0	static
+NoTransition.hpp:31:7:touchgfx::NoTransition::~NoTransition()	0	static
+Callback.hpp:424:8:touchgfx::Callback<FrontendApplicationBase>::~Callback()	0	static
+Callback.hpp:449:18:void touchgfx::Callback<dest_type, void, void, void>::execute() [with dest_type = FrontendApplicationBase]	4	static
+Callback.hpp:459:18:bool touchgfx::Callback<dest_type, void, void, void>::isValid() const [with dest_type = FrontendApplicationBase]	0	static
+MVPApplication.hpp:43:7:virtual touchgfx::MVPApplication::~MVPApplication()	8	static
+NoTransition.hpp:31:7:virtual touchgfx::NoTransition::~NoTransition()	8	static
+FrontendApplicationBase.hpp:16:13:virtual FrontendApplicationBase::~FrontendApplicationBase()	8	static
+Callback.hpp:424:8:virtual touchgfx::Callback<FrontendApplicationBase>::~Callback()	8	static
+Transition.hpp:89:18:virtual void touchgfx::Transition::invalidate()	8	static
+MVPApplication.hpp:59:18:virtual void touchgfx::MVPApplication::handlePendingScreenTransition()	8	static
+HAL.hpp:268:17:static touchgfx::LCD& touchgfx::HAL::lcd()	0	static
+FrontendApplicationBase.cpp:37:1:FrontendApplicationBase::FrontendApplicationBase(Model&, FrontendHeap&)	24	static
+FrontendApplicationBase.cpp:56:6:void FrontendApplicationBase::gotofunctionSelectScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:69:6:void FrontendApplicationBase::gotosystemInfoScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:82:6:void FrontendApplicationBase::gotocoffeeMakeScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:95:6:void FrontendApplicationBase::gotocustomizeScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:108:6:void FrontendApplicationBase::gotomakeProgScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:121:6:void FrontendApplicationBase::gotobeanGrindScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:134:6:void FrontendApplicationBase::gotogrindManualScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:147:6:void FrontendApplicationBase::gotogrindAutoScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:160:6:void FrontendApplicationBase::gotobeanRoastScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:173:6:void FrontendApplicationBase::gotoroastProgScreenNoTransition()	0	static
+FrontendApplicationBase.cpp:186:6:void FrontendApplicationBase::gotoscreenCheckScreenNoTransition()	0	static
+AbstractPartition.hpp:135:8:T& touchgfx::AbstractPartition::at(uint16_t) [with T = touchgfx::NoTransition]	0	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = functionSelectView; PresenterType = functionSelectPresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:62:6:void FrontendApplicationBase::gotofunctionSelectScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = systemInfoView; PresenterType = systemInfoPresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:75:6:void FrontendApplicationBase::gotosystemInfoScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = coffeeMakeView; PresenterType = coffeeMakePresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:88:6:void FrontendApplicationBase::gotocoffeeMakeScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = customizeView; PresenterType = customizePresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:101:6:void FrontendApplicationBase::gotocustomizeScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = makeProgView; PresenterType = makeProgPresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:114:6:void FrontendApplicationBase::gotomakeProgScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = beanGrindView; PresenterType = beanGrindPresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:127:6:void FrontendApplicationBase::gotobeanGrindScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = grindManualView; PresenterType = grindManualPresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:140:6:void FrontendApplicationBase::gotogrindManualScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = grindAutoView; PresenterType = grindAutoPresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:153:6:void FrontendApplicationBase::gotogrindAutoScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = beanRoastView; PresenterType = beanRoastPresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:166:6:void FrontendApplicationBase::gotobeanRoastScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = roastProgView; PresenterType = roastProgPresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:179:6:void FrontendApplicationBase::gotoroastProgScreenNoTransitionImpl()	16	static
+MVPApplication.hpp:161:16:PresenterType* touchgfx::makeTransition(touchgfx::Screen**, touchgfx::Presenter**, touchgfx::MVPHeap&, touchgfx::Transition**, ModelType*) [with ScreenType = screenCheckView; PresenterType = screenCheckPresenter; TransType = touchgfx::NoTransition; ModelType = Model]	32	static
+FrontendApplicationBase.cpp:192:6:void FrontendApplicationBase::gotoscreenCheckScreenNoTransitionImpl()	16	static

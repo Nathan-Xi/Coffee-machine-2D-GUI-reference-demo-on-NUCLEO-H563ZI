@@ -1,0 +1,5 @@
+grindAutoPresenter.hpp:28:13:grindAutoPresenter::~grindAutoPresenter()	0	static
+grindAutoPresenter.cpp:10:6:virtual void grindAutoPresenter::activate()	0	static
+grindAutoPresenter.hpp:28:13:virtual grindAutoPresenter::~grindAutoPresenter()	8	static
+grindAutoPresenter.hpp:28:13:virtual void* grindAutoPresenter::_ZThn4_N18grindAutoPresenterD1Ev()	0	static
+grindAutoPresenter.cpp:4:1:grindAutoPresenter::grindAutoPresenter(grindAutoView&)	8	static

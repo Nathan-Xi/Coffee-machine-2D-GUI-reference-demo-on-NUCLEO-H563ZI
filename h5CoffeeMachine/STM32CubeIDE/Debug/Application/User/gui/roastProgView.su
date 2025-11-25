@@ -1,0 +1,10 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/roastprog_screen/roastProgView.cpp:14:6:virtual void roastProgView::tearDownScreen()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../../TouchGFX/gui/include/gui/roastprog_screen/roastProgView.hpp:11:13:roastProgView::~roastProgView()	8	static
+../../TouchGFX/gui/include/gui/roastprog_screen/roastProgView.hpp:11:13:virtual roastProgView::~roastProgView()	8	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/roastprog_screen/roastProgView.cpp:4:1:roastProgView::roastProgView()	8	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/roastprog_screen/roastProgView.cpp:9:6:virtual void roastProgView::setupScreen()	0	static
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/roastprog_screen/roastProgView.cpp:19:6:virtual void roastProgView::handleTickEvent()	40	static

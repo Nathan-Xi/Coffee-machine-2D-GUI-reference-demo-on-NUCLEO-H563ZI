@@ -1,0 +1,4 @@
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/model/Model.cpp:4:1:Model::Model()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/model/Model.cpp:9:6:void Model::tick()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/model/Model.cpp:14:6:void Model::SetmenuSelected(int)	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/model/Model.cpp:19:5:int Model::GetScreenMainMenuScroll1WheelItem()	1

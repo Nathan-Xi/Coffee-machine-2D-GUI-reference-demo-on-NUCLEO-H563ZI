@@ -1,0 +1,11 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/beanroast_screen/beanRoastView.cpp:16:6:virtual void beanRoastView::tearDownScreen()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/beanroast_screen/beanRoastView.cpp:21:6:virtual void beanRoastView::scrollWheel1UpdateItem(listElement2&, int16_t)	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/beanroast_screen/beanRoastView.cpp:26:6:virtual void beanRoastView::scrollWheel2UpdateItem(listElement3&, int16_t)	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/beanroast_screen/beanRoastView.cpp:31:6:virtual void beanRoastView::scrollWheel3UpdateItem(listElement4&, int16_t)	1
+../../TouchGFX/gui/include/gui/beanroast_screen/beanRoastView.hpp:11:13:beanRoastView::~beanRoastView()	1
+../../TouchGFX/gui/include/gui/beanroast_screen/beanRoastView.hpp:11:13:virtual beanRoastView::~beanRoastView()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/beanroast_screen/beanRoastView.cpp:6:1:beanRoastView::beanRoastView()	1
+C:/Users/Natha/Desktop/h5CoffeeMachine/TouchGFX/gui/src/beanroast_screen/beanRoastView.cpp:11:6:virtual void beanRoastView::setupScreen()	1

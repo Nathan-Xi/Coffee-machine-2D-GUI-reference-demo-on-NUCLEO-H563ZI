@@ -1,0 +1,16 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+customizeView.cpp:19:6:virtual void customizeView::tearDownScreen()	0	static
+Callback.hpp:290:8:touchgfx::Callback<customizeView, const touchgfx::Slider&, int>::~Callback()	0	static
+Callback.hpp:318:18:void touchgfx::Callback<dest_type, T1, T2, void>::execute(T1, T2) [with dest_type = customizeView; T1 = const touchgfx::Slider&; T2 = int]	12	static
+Callback.hpp:328:18:bool touchgfx::Callback<dest_type, T1, T2, void>::isValid() const [with dest_type = customizeView; T1 = const touchgfx::Slider&; T2 = int]	0	static
+Callback.hpp:290:8:virtual touchgfx::Callback<customizeView, const touchgfx::Slider&, int>::~Callback()	8	static
+customizeView.hpp:11:13:customizeView::~customizeView()	8	static
+customizeView.hpp:11:13:virtual customizeView::~customizeView()	8	static
+customizeView.cpp:3:1:customizeView::customizeView()	8	static
+customizeView.cpp:11:6:virtual void customizeView::setupScreen()	8	static
+customizeView.cpp:24:6:void customizeView::sliderSugarValueStartedChangeCallbackHandler(const touchgfx::Slider&, int)	8	static
+customizeView.cpp:34:6:void customizeView::sliderSugarValueChangedCallbackHandler(const touchgfx::Slider&, int)	0	static
+customizeView.cpp:44:6:void customizeView::sliderSugarValueConfirmedCallbackHandler(const touchgfx::Slider&, int)	0	static
+customizeView.cpp:24:6:void customizeView::sliderSugarValueStartedChangeCallbackHandler(const touchgfx::Slider&, int)	0	static
