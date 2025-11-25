@@ -1,3 +1,27 @@
-This project demonstrates a smooth-animated 2D GUI of a coffee machine, which is based on the hardware setup of a STMicroelectronics NUCLEO-H563ZI and RVA35HI LCD expansion board from RIVERDI.
+### **Coffee Machine Demo for NUCLEO-H563ZI**
 
-Notes: Use TouchGFX 4.24.0 to open the TouchGFX project. The project is only a reference. As it has already been recognized by STMicroelectronics, do not use it directly. Instead, use it as a reference.
+To see the full video demonstration of the project, please go to: https://www.bilibili.com/video/BV19gfeYgEQr
+
+#### **Hardware setup:**
+
+NUCLEO-H563ZI
+
+RVA35HI
+
+
+
+#### **Software:**
+
+TouchGFX Designer 4.24.0
+
+STM32CubeIDE 1.18.0
+
+
+
+
+
+#### **Usage:**
+
+This is a full-compiled version of the project. If you get the compatible hardware, just flash the binary.
+
+To edit the project, use TouchGFX 4.24.0 to open. Newer versions are not necessarily compatible and might cause problems.
